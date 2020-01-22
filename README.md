@@ -6,7 +6,7 @@ In 2019, **International Energy Agency** (IEA) released a scenario in its World 
 
 Do we really have to add new CCS fields a hundredfold by 2050 to reach this target? A simulation using Monte Carlo will answer this. 
 
-p.s. Open `carbon-capture-storage-to-meet-target.ipynb` notebook to learn and run the simulation. 
+p.s. Open directly my [carbon-capture-storage-to-meet-target.ipynb](https://github.com/yohanesnuwara/climate-ambition/blob/master/carbon_capture_storage_to_meet_target.ipynb) notebook to learn and run the simulation. 
 
 ## What is Monte Carlo Simulation?
 
