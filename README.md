@@ -10,6 +10,8 @@ p.s. Open directly my [carbon-capture-storage-to-meet-target.ipynb](https://gith
 
 ## What is Monte Carlo Simulation?
 
+![throw dice](https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2012/01/rolling-dice-325x280.jpg)
+
 Monte Carlo Simulation is a stochastic simulation that simulates the probability of an occurence based on probable parameters. It's the same as you roll 2 dices at the same time, multiply the 2 numbers that came out, and repeat this experiment 100 times. After that, you will see a probability distribution of the multiplied results, and you know with 80% what result will come up. 
 
 ## Result
